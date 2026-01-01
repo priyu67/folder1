@@ -1,0 +1,6 @@
+gonna do java code 
+
+public class bus{
+    private int ticket;
+    private String seatAvailabilty;
+}
